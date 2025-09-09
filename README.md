@@ -14,3 +14,8 @@ Branches de bugs
 * bug/erro-a1
 * bug/erro-a2
 * bug/erro-a3
+
+- `html/` → Contém as páginas HTML do projeto
+- `logo/` → Arquivos de logotipo
+- `photos/` → Imagens utilizadas nas páginas
+- `thumbnails/` → Miniaturas de imagens
